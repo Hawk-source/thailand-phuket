@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>All about thailand tourism</title>
+        <style >
+            .tourism{font-weight:bold;
+                font-size: 20px
+                background-color:blue;}
+
+           .info{
+            background-color:green;
+           
+           font-weight: bold;
+           font-style: italic;}
+           h4{text-decoration: underline;
+            background-color: grey}
+
+        </style>
+        <h1 class="tourism"><strong>Thailand Tourism</strong>
+            <p class="info"><em>Thailand is one of the beautiful destination in the world</em><br>
+            It has lots of exiciting places to visit throughout the country.</p>
+            Thailand,[a] officially the Kingdom of Thailand and formerly known as Siam,[b] is a country at the centre of the Southeast Asian Indochinese peninsula composed of 76 provinces. At 513,120 km2 (198,120 sq mi) and over 68 million people, Thailand is the world's 50th largest country by total area and the 21st-most-populous country. The capital and largest city is Bangkok, a special administrative area. Thailand is bordered to the north by Myanmar and Laos, to the east by Laos and Cambodia, to the south by the Gulf of Thailand and Malaysia, and to the west by the Andaman Sea and the southern extremity of Myanmar. Its maritime boundaries include Vietnam in the Gulf of Thailand to the southeast, and Indonesia and India on the Andaman Sea to the southwest. Although nominally a constitutional monarchy and parliamentary democracy, the most recent coup in 2014 established a de facto military dictatorship.
+
+            <ul>
+                <li>pattaya</li>
+                <li>bangkok</li>
+                <li>koh panghan</li>
+                <li>phuket</li>
+
+                <h2><strong>pattaya</strong></h2>
+                <p>Pattaya is a city on Thailand’s eastern Gulf coast known for its beaches. A quiet fishing village as recently as the 1960s, it’s now lined with resort hotels, high-rise condos, shopping malls, cabaret bars and 24-hour clubs. Nearby, hillside Wat Phra Yai Temple features an 18m-tall golden Buddha. The area also features several designer golf courses, some with views of Pattaya Bay.</p>      
+                <h3><strong>bangkok</strong></h3> 
+                <P>Bangkok, Thailand’s capital, is a large city known for ornate shrines and vibrant street life. The boat-filled Chao Phraya River feeds its network of canals, flowing past the Rattanakosin royal district, home to opulent Grand Palace and its sacred Wat Phra Kaew Temple. Nearby is Wat Pho Temple with an enormous reclining Buddha and, on the opposite shore, Wat Arun Temple with its steep steps and Khmer-style spire.</P>
+
+                <h4>TO know more about koh phangan and  phuket go to<a href="https://en.wikipedia.org/wiki/Phuket_Province"> wikipedia</a></h4>
+    </body>
+</html>
